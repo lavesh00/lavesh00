@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![UI 9mm GIF](https://media1.tenor.com/m/t3595ul-sZ4AAAAd/ui-9mm.gif)
+  ![UI 9mm GIF](https://raw.githubusercontent.com/lavesh00/lavesh00/main/ui-9mm.gif)
   
 </div>
 
