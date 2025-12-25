@@ -1,7 +1,9 @@
 ## Hi there, I'm Lavesh 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lavesh00/lavesh00/main/ui-9mm.gif" alt="UI 9mm GIF" width="300" style="pointer-events: none; user-select: none;" />
+  <video width="300" autoplay loop muted playsinline>
+    <source src="https://raw.githubusercontent.com/lavesh00/lavesh00/main/9MM%20x%20LOLI%20SHIGURE%20UI.mp4" type="video/mp4">
+  </video>
 </div>
 
 ---
