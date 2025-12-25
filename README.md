@@ -1,7 +1,9 @@
 ## Hi there, I'm Lavesh 👋
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/t3595ul-sZ4AAAAd/ui-9mm.gif" alt="UI 9mm GIF" width="300"/>
+  
+  ![UI 9mm GIF](https://media1.tenor.com/m/t3595ul-sZ4AAAAd/ui-9mm.gif)
+  
 </div>
 
 ---
@@ -40,19 +42,6 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 #### Automation & Workflow
 ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavesh00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavesh00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=lavesh00&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ---
 
