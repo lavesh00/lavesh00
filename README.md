@@ -1,4 +1,4 @@
-## Hi there, I'm Lavesh 👋
+# I'm Lavesh Patil👋
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lavesh00/lavesh00/main/ui-9mm-video.gif" alt="UI 9mm GIF" width="100%" style="max-width: 100%; height: auto;" />
