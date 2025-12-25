@@ -1,7 +1,9 @@
 ## Hi there, I'm Lavesh 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lavesh00/lavesh00/main/ui-9mm-video.gif" alt="UI 9mm GIF" width="300" />
+  
+  ![UI 9mm GIF](https://raw.githubusercontent.com/lavesh00/lavesh00/main/ui-9mm-video.gif)
+  
 </div>
 
 ---
@@ -29,6 +31,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Frameworks & Tools
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
