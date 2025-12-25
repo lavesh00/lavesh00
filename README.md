@@ -1,9 +1,7 @@
 ## Hi there, I'm Lavesh 👋
 
 <div align="center">
-  
-  ![UI 9mm GIF](https://raw.githubusercontent.com/lavesh00/lavesh00/main/ui-9mm.gif)
-  
+  <img src="https://raw.githubusercontent.com/lavesh00/lavesh00/main/ui-9mm.gif" alt="UI 9mm GIF" width="300" style="pointer-events: none; user-select: none;" />
 </div>
 
 ---
